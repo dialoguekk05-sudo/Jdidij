@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jarvis_obsidian">#FF02060D</color>
+    <color name="jarvis_surface">#FF071324</color>
+    <color name="jarvis_cyan">#FF00E5FF</color>
+    <color name="jarvis_cobalt">#FF2979FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

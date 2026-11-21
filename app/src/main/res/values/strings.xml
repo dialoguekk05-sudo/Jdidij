@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="jarvis_accessibility_label">JARVIS Hands-Free Navigation</string>
+    <string name="jarvis_accessibility_description">Optional hands-free helper enabled only by your explicit consent. Allows JARVIS AI to trigger global system actions such as Back, Home, Recents, or Notifications when you command it. JARVIS never reads screen text, passwords, or private data.</string>
+    <string name="wake_service_channel_name">JARVIS Wake Word Listener</string>
+    <string name="wake_service_notification_title">JARVIS AI Listening</string>
+    <string name="wake_service_notification_text">Say \"Hey JARVIS\" for hands-free voice command</string>
+</resources>
